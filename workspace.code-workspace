@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "C:\\Users\\Nikita\\OneDrive\\Рабочий стол\\Nudel mag"
+	},
+	{
+		"path": "C:\\Users\\Nikita\\OneDrive\\Рабочий стол\\Basic shop"
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.multiRootWorkspaceName": "Nudel mag"
+  }
+}
